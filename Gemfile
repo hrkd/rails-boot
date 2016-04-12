@@ -39,6 +39,8 @@ gem 'capistrano-passenger'
 gem 'holiday_jp'
 
 gem 'devise'
+gem 'omniauth-twitter'
+
 gem "cancancan"
 gem 'rails_admin'
 
