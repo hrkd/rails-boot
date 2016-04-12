@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
+/.vagrant
 /.bundle
 
 # Ignore the default SQLite database.
@@ -21,3 +22,6 @@
 .DS_Store
 *.sw*
 
+config/initializers/devise.rb
+config/database.yml
+config/secrets.yml
